@@ -11,5 +11,12 @@ The tool is particularly useful for researchers, developers, and testers who rec
 * --fps -> Number of frames between screenshots
 * --optimize -> If it's true, optimize the taken screenshots removing the duplicate ones
 
+## Example
+
+1. Install dependencies running pip3 install -r requirements.txt
+2. Move the video into app folder (i.e. puppy_video.mp4)
+3. Run the script 'python3 script.py --video puppy_video.mp4 --fps 30 --optimize true'
+4. You will see a new folder started with 'screenshots_' with the output
+
 ## Author
 Lucheti29
