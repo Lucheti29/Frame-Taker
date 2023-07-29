@@ -13,9 +13,9 @@ The tool is particularly useful for researchers, developers, and testers who rec
 
 ## Example
 
-1. Install dependencies running pip3 install -r requirements.txt
+1. Install dependencies running `pip3 install -r requirements.txt`
 2. Move the video into app folder (i.e. puppy_video.mp4)
-3. Run the script 'python3 script.py --video puppy_video.mp4 --fps 30 --optimize true'
+3. Run the script `python3 script.py --video puppy_video.mp4 --fps 30 --optimize true`
 4. You will see a new folder started with 'screenshots_' with the output
 
 ## Author
