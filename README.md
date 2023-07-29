@@ -7,9 +7,9 @@ The tool is particularly useful for researchers, developers, and testers who rec
 
 ## Parameters
 
---video -> File video name in the script folder
---fps -> Number of frames between screenshots
---optimize -> If it's true, optimize the taken screenshots removing the duplicate ones
+* --video -> File video name in the script folder
+* --fps -> Number of frames between screenshots
+* --optimize -> If it's true, optimize the taken screenshots removing the duplicate ones
 
 ## Author
 Lucheti29
